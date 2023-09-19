@@ -1,0 +1,42 @@
+nav ul li a:hover{
+  color: rgb(43, 255, 0);
+  border-bottom: 1px solid rgb(9, 255, 0);
+}
+
+nav ul li a{
+  text-decoration: none;
+  font-family: "Segoe UI", sans-serif;
+  color: #ffffff;
+  font-weight: 600;
+  padding: 8px;
+  transition: all;
+  transition-duration: 300ms;
+  border-bottom: 1px solid black;
+}
+
+
+
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #00ff4cd8;
+}
+
+#projects {
+  background-color: #ffee00;
+  
+}
+
+#about{
+  background-color: #42f51b;
+}
+
+section {
+  padding-top: 5rem;
+  background-color: #85d916;
+}
+
+#contact{
+ background-color: #1eff00;
+}
+
